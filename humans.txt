@@ -1,0 +1,15 @@
+Author: Haranath Rakshit
+Role: Ph.D Scholar in Computer Science
+Affiliation: Visva-Bharati University, Santiniketan
+Website: https://www.haranathrakshit.com/
+
+Research Areas:
+- IoT–Edge–Cloud Systems
+- Cryptography & Secure Communication
+- Kubernetes & Containerization
+- AI & GenAI
+
+Profiles:
+- ORCID: https://orcid.org/0009-0008-1571-4440
+- Google Scholar: https://scholar.google.com/citations?user=cX0sN8kAAAAJ
+- IEEE Xplore: https://ieeexplore.ieee.org/author/286510739510663
