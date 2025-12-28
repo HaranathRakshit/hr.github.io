@@ -77,6 +77,7 @@ The website is:
 
 ## 📁 Repository Structure
 
+```text
 /
 ├── index.html        # Main website page
 ├── style.css         # Global & responsive styles
@@ -85,6 +86,7 @@ The website is:
 ├── robots.txt        # Crawl directives
 ├── humans.txt        # Author metadata
 └── README.md         # Documentation
+
 
 
 
